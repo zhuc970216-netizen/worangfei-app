@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="窝囊费图标">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="48" x2="440" y2="468" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#123c2f" />
+      <stop offset="0.58" stop-color="#287050" />
+      <stop offset="1" stop-color="#f0b949" />
+    </linearGradient>
+    <linearGradient id="bag" x1="150" y1="128" x2="374" y2="402" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffe178" />
+      <stop offset="0.58" stop-color="#f3a72e" />
+      <stop offset="1" stop-color="#c87313" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bg)" />
+  <circle cx="150" cy="114" r="74" fill="#ffe7a8" opacity="0.26" />
+  <circle cx="392" cy="112" r="88" fill="#9fe4b4" opacity="0.2" />
+  <path d="M212 135c22-34 68-34 90 0l22 34H190l22-34Z" fill="#f8bd43" stroke="#8f5b13" stroke-width="18" stroke-linejoin="round" />
+  <path d="M140 275c0-83 56-139 116-139s116 56 116 139c0 92-44 148-116 148s-116-56-116-148Z" fill="url(#bag)" stroke="#8f5b13" stroke-width="20" />
+  <path d="M174 204c40 16 118 16 162 0" fill="none" stroke="#8f5b13" stroke-width="16" stroke-linecap="round" stroke-dasharray="10 18" opacity="0.72" />
+  <path d="M210 300h92M256 236v138M220 248c18 24 54 24 72 0M220 358c18-24 54-24 72 0" fill="none" stroke="#573606" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M188 238c-14 34-13 74 4 118" fill="none" stroke="#fff5bf" stroke-width="18" stroke-linecap="round" opacity="0.42" />
+</svg>

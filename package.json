@@ -1,0 +1,20 @@
+{
+  "name": "worangfei",
+  "version": "0.1.0",
+  "private": true,
+  "description": "窝囊费 iPhone app wrapper",
+  "scripts": {
+    "preview": "node preview-server.js",
+    "ios:prepare": "node scripts/prepare-ios-assets.js",
+    "ios:add": "npm run ios:prepare && npx cap add ios",
+    "ios:sync": "npm run ios:prepare && npx cap sync ios",
+    "ios:open": "npx cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/ios": "^7.0.0"
+  }
+}

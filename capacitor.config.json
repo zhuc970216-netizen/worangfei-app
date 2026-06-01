@@ -1,0 +1,9 @@
+{
+  "appId": "com.worangfei.app",
+  "appName": "窝囊费",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "ios": {
+    "contentInset": "automatic"
+  }
+}
